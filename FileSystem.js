@@ -48,7 +48,7 @@ const { encode } = require('punycode')
 // }
 
 
-//4. create and remove file
+//4. create and remove fil
 
 // try {
 //     fs.writeFile("readme.txt","hello...")
